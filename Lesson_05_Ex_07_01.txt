@@ -1,0 +1,6 @@
+Microsoft	ООО	100000	10000
+Apple	ОАО	50000	40000
+Teahouse	ОАО	999	1000
+Gazprom	ОАО	500	490
+Lukoil	ООО	700	1000
+Wanderers	ООО	10	11
